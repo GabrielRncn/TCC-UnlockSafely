@@ -1,7 +1,7 @@
 # TCC-UnlockSafely
 Fechadura Inteligente com impressão digital utilizando arduino.
 
-<img src="LogoProjetoTCC.png" width="200px">
+<img src="LogoProjetoTCC.png" width="200px" align=center>
 
 Problema: Gerenciamento de chaves dos armarios 
 
