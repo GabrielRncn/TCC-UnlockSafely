@@ -1,7 +1,7 @@
 # TCC-UnlockSafely
-Fechadura Inteligente com impressão digital utilizando arduino.
+<h2>Fechadura Inteligente com impressão digital utilizando arduino.</h2>
 
-<h1>Responsáveis: Eduardo Coppi, Gabriel Ronconi, Heliel Hislei e Mikael Braghini</h1>
+<h2>Responsáveis: Eduardo Coppi, Gabriel Ronconi, Heliel Hislei e Mikael Braghini</h2>
 
 <div align="center">
 	<img src="LogoProjetoTCC.png" width="200px">
