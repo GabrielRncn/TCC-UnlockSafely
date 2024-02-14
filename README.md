@@ -64,45 +64,10 @@ Risco: Mudanças nos Requisitos durante o Desenvolvimento
 ●	Sistemas de versionamento de código: git e github para manter o código versionado e sempre atualizado.
 ●	Servidores e Infraestrutura em Nuvem: Para hospedar o sistema, o painel de supervisão e os dados do sistema.
 ●	Ferramentas de Teste de Software: Para garantir a qualidade e a confiabilidade do sistema.
-	
-	Equipamentos:
-Computadores, Notebooks, Solenoides, Teclado numerico arduino e Arduinos: Para desenvolvimento, teste e gerenciamento de projeto.
-6. Custos
-Pessoal:
-	Desenvolvedores de Software:
-●	4 desenvolvedores trabalhando por 5 dias na semana.
-●	Custo médio por desenvolvedor por hora: R$ 50
-●	Custo total: $50/hora/desenvolvedor * 4 desenvolvedores * 5 dias/semana * 4 horas/dia * 18 semanas = R$72,000
-	Equipe de Treinamento:
-●	4 pessoas trabalhando por 5 dias na semana (considerando treinamento inicial).
-●	Custo médio por pessoa por hora: R$30
-●	Custo total: R$30/hora/pessoa * 4 pessoas * 5 dias/semana * 4 horas/dia * 4 semanas = R$9,600
-	Gerente de Projeto:
-●	1 gerente de projeto.
-●	Custo médio por gerente de projeto por hora: R$60
-●	Custo total: R$60/hora/gerente * 1 gerente * 5 dias/semana * 4 horas/dia * 18 semanas = R$43,200
-Equipamentos:
-	Computadores e Notebooks:
-●	Custo total: Nenhum, já possuimos;
 
-Arduino: 
-•	Custo total: R$70,00;
-
-Solenoides:
-
-•	Custo total: R$ 50,00
-
-Teclado numérico arduino:
-
-•	Custo total: R$ 15,00
+ <h2>7 Documentação</h2>
 
 
-Total Geral:
-●	Pessoal: $81,600
-●	Equipamentos: $200,00
-Custo Total do Projeto: $81,800
-
-7 Documentação
 
 Requisitos funcionais
 	Como um funcionário, eu quero poder trancar o meu armário para guardar meus pertences.
