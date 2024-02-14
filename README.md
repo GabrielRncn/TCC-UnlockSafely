@@ -10,11 +10,11 @@
 
 Problema: Gerenciamento de chaves dos armarios 
 
-●	Área: Escolas
-●	Responsável: Matheus Michilino
-1. Escopo
+●	Área: Escolas<br />
+●	Responsável: Matheus Michilino<br />
+<h2>1. Escopo</h2>
 O projeto tem como objetivo erradicar o uso de chaves para abertura dos armários, sendo possível gerir de uma maneira eficiente o uso de tais, por meio de uma “fechadura eletrônica”, ao colocar sua digitar, o armário atribuído a você destrancará. o objetivo principal do projeto é sanar o problema dos alunos, professores(a) e etc, saírem da escola e não devolverem as chaves dos armários, sendo necessário romper o cadeado para abertura dos armário, visando facilitar essa gestão dos armários após a saída dos estudantes ou funcionários.
-2. Objetivos do projeto
+<h2>2. Objetivos do projeto</h2>
 ●	Desenvolver uma tranca eletrônica para a abertura dos armários apartir do leitor biométrico.
 ●	Implementar interface com mecanismo de segurança para gerenciar digitais.
 ●	Implementar sistema eletroeletronico para a abertura dos armários.
@@ -22,7 +22,7 @@ O projeto tem como objetivo erradicar o uso de chaves para abertura dos armário
 ●	Melhorar a gestão dos armários para garantir uma maior organização da instituição.
 ●	Reduzir os custos associados a compra dos cadeados e chaves.
 
-3. Análise de Riscos
+<h2>3. Análise de Riscos</h2>
 Risco: Problemas com a parte do hardware
 •	Estratégias de Mitigação: Unir projetos TCC com algum grupo da turma de Mecatrônica, desta forma, faremos todo o desenvolvimento do software e o outro grupo, a parte mecânica (hardware).
 •	Plano de Contingência: Com a falta de disponibilidade do professor, tem a necessidade de recorrer a diversas opções para auxiliar nesta parte, como materias da internet, documentações, vídeos, os alunos da mecatrônica e professor.
@@ -34,7 +34,8 @@ Risco: Falhas técnicas no projeto
 Risco: Mudanças nos Requisitos durante o Desenvolvimento
 •	Estratégias de Mitigação: Ter visão ao longo prazo e entender que pode haver mudanças. Adquirir a capacidade de reorganizar ideias e funções conforme as mudanças dos requisitos.
 •	Plano de Contingência: Ser resiliente e se adaptar de último momento às mudanças e novas especificações impostas. Comunicação entre o grupo é primordial para o melhor desenvolvimeto do projeto em diferentes circunstâncias.
-4. Cronograma
+
+<h2>4. Cronograma</h2>h2>
 •	Janeiro/2024: Planejamento e Análise
 ●	Formação das equipes;
 ●	Identificação de requisitos detalhados;
@@ -54,7 +55,8 @@ Risco: Mudanças nos Requisitos durante o Desenvolvimento
 ●	Início da integração com sistemas existentes;
 ●	Testes de integração e ajustes necessários;
 •	Maio/2024: Testes Finais e Lançamento;
-5. Recursos
+
+<h2>5. Recursos</h2>
 	Pessoal:
 ●	Desenvolvedores de Software: Para a criação do sistemas para supervisores, funcionários e alunos.
 ●	Equipe de Treinamento: Para capacitar supervisores, funcionários e alunos no uso do novo sistema.
@@ -81,7 +83,7 @@ Requisitos funcionais
 	Como um funcionário, eu quero ter um treinamento inicial no uso do sistema, para garantir que eu possa utilizá-lo eficientemente.
 ●	Critérios de Aceitação: A equipe de treinamento deve fornecer sessões iniciais de treinamento que cubram todos os recursos e funcionalidades do sistema.
 	
-8. Avaliação do Projeto
+<h2>8. Avaliação do Projeto</h2>
 	Taxa de Adoção do Sistema:
 ●	Objetivo: Alcançar uma taxa de adoção de 100% entre os usuários de armários da escola, sejam eles funcionários ou alunos que possuem os requisitos para uso.
 ●	Métrica: Número total de funcionários e alunos utilizando o sistema em comparação com o número total de funcionários e alunos que possuem armários.
