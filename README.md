@@ -37,29 +37,35 @@ O projeto tem como objetivo erradicar o uso de chaves para abertura dos armário
 
 <h2>4. Cronograma</h2>
 
-- `Janeiro/2024`:
+●	Janeiro/2024:
 
-●	Planejamento e Análise
-●	Formação das equipes;<br />
-●	Identificação de requisitos detalhados;<br />
-●	Início do desenvolvimento do escopo do projeto e documentação da ideia inicial;<br />
+Planejamento e Análise
+Formação das equipes;<br />
+Identificação de requisitos detalhados;<br />
+Início do desenvolvimento do escopo do projeto e documentação da ideia inicial;<br />
 ●	Definição do backlog e prioridade das atividades;<br />
 
-- `Fevereiro/2024`:
+●	Fevereiro/2024:
 
-•	Desenvolvimento do MVP (menor produto viável);<br />
-●	Codificação e validação do MVP com o cliente e adaptação dos documentos de escopo (se necessário);<br />
-•	Março/2024: <br />
-●	Desenvolvimento das interfaces do usuário, fluxos da aplicação;<br />
-●	Desenvolvimento dos micro serviços e bancos de dados;<br />
-●	Revisão e ajuste do protótipo com feedback da equipe e usuários;<br />
-•	Abril/2024: <br />
+-	Desenvolvimento do MVP (menor produto viável);<br />
+-	Codificação e validação do MVP com o cliente e adaptação dos documentos de escopo (se necessário);<br />
 
-●	Implementação do Painel de Supervisão e Integração;<br />
-●	Desenvolvimento do painel de supervisão para os gestores;<br />
-●	Início da integração com sistemas existentes;<br />
-●	Testes de integração e ajustes necessários;<br />
-•	Maio/2024: Testes Finais e Lançamento;<br />
+●	Março/2024: <br />
+
+-	Desenvolvimento das interfaces do usuário, fluxos da aplicação;<br />
+-	Desenvolvimento dos micro serviços e bancos de dados;<br />
+-	Revisão e ajuste do protótipo com feedback da equipe e usuários;<br />
+
+●	Abril/2024: <br />
+
+-	Implementação do Painel de Supervisão e Integração;<br />
+-	Desenvolvimento do painel de supervisão para os gestores;<br />
+-	Início da integração com sistemas existentes;<br />
+-	Testes de integração e ajustes necessários;<br />
+
+●	Maio/2024: <br />
+
+-	Testes Finais e Lançamento;<br />
 
 <h2>5. Recursos</h2>
 	Pessoal:<br />
