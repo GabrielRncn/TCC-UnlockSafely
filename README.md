@@ -23,16 +23,15 @@ O projeto tem como objetivo erradicar o uso de chaves para abertura dos armário
 ●	Reduzir os custos associados a compra dos cadeados e chaves.<br />
 
 <h2>3. Análise de Riscos</h2>
-<h4>Risco:</h4> 
 <h5>Problemas com a parte do hardware</h5><br />
 •	Estratégias de Mitigação: Unir projetos TCC com algum grupo da turma de Mecatrônica, desta forma, faremos todo o desenvolvimento do software e o outro grupo, a parte mecânica (hardware).<br />
 •	Plano de Contingência: Com a falta de disponibilidade do professor, tem a necessidade de recorrer a diversas opções para auxiliar nesta parte, como materias da internet, documentações, vídeos, os alunos da mecatrônica e professor.<br />
 
-<h6>Falhas técnicas no projeto</h6><br />
+<h5>Falhas técnicas no projeto</h5><br />
 •	Estratégias de Mitigação: Sempre realizar testes do projeto, analisando cada detalhe especificamente, com a lógica de cada funcionalidade, recorrer sempre a ajudas externas ao longo prazo.<br />
 •	Plano de Contingência: Adquirir a capacidade de resolução de problemas, de último caso, utilizaremos a última versão já entregue e sem erros, e desenvolver a partir dela, visando corrigir os erros.<br />
 
-<h6>Mudanças nos Requisitos durante o Desenvolvimento</h6><br />
+<h5>Mudanças nos Requisitos durante o Desenvolvimento</h5><br />
 •	Estratégias de Mitigação: Ter visão ao longo prazo e entender que pode haver mudanças. Adquirir a capacidade de reorganizar ideias e funções conforme as mudanças dos requisitos.<br />
 •	Plano de Contingência: Ser resiliente e se adaptar de último momento às mudanças e novas especificações impostas. Comunicação entre o grupo é primordial para o melhor desenvolvimeto do projeto em diferentes circunstâncias.<br />
 
