@@ -23,7 +23,8 @@ O projeto tem como objetivo erradicar o uso de chaves para abertura dos armário
 ●	Reduzir os custos associados a compra dos cadeados e chaves.<br />
 
 <h2>3. Análise de Riscos</h2>
-<h5>Risco:</h5> Problemas com a parte do hardware<br />
+<h4>Risco:</h4> 
+<h6>Problemas com a parte do hardware</h6><br />
 •	Estratégias de Mitigação: Unir projetos TCC com algum grupo da turma de Mecatrônica, desta forma, faremos todo o desenvolvimento do software e o outro grupo, a parte mecânica (hardware).<br />
 •	Plano de Contingência: Com a falta de disponibilidade do professor, tem a necessidade de recorrer a diversas opções para auxiliar nesta parte, como materias da internet, documentações, vídeos, os alunos da mecatrônica e professor.<br />
 
