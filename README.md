@@ -35,11 +35,11 @@ O projeto tem como objetivo erradicar o uso de chaves para abertura dos armário
 •	Estratégias de Mitigação: Ter visão ao longo prazo e entender que pode haver mudanças. Adquirir a capacidade de reorganizar ideias e funções conforme as mudanças dos requisitos.<br />
 •	Plano de Contingência: Ser resiliente e se adaptar de último momento às mudanças e novas especificações impostas. Comunicação entre o grupo é primordial para o melhor desenvolvimeto do projeto em diferentes circunstâncias.<br />
 
-<h2>4. Cronograma</h2>h2>
+<h2>4. Cronograma</h2>
 •	Janeiro/2024: Planejamento e Análise<br />
-●	Formação das equipes;<br />
-●	Identificação de requisitos detalhados;<br />
-●	Início do desenvolvimento do escopo do projeto e documentação da ideia inicial;<br />
+	●	Formação das equipes;<br />
+	●	Identificação de requisitos detalhados;<br />
+	●	Início do desenvolvimento do escopo do projeto e documentação da ideia inicial;<br />
 ●	Definição do backlog e prioridade das atividades;<br />
 •	Fevereiro/2024: <br />
 •	Desenvolvimento do MVP (menor produto viável);<br />
