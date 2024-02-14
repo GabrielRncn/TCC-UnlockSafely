@@ -11,7 +11,7 @@
 Problema: Gerenciamento de chaves dos armarios 
 
 ●	Área: Escolas
-●	Responsável: Professor Roberto
+●	Responsável: Matheus Michilino
 1. Escopo
 O projeto tem como objetivo erradicar o uso de chaves para abertura dos armários, sendo possível gerir de uma maneira eficiente o uso de tais, por meio de uma “fechadura eletrônica”, ao colocar sua digitar, o armário atribuído a você destrancará. o objetivo principal do projeto é sanar o problema dos alunos, professores(a) e etc, saírem da escola e não devolverem as chaves dos armários, sendo necessário romper o cadeado para abertura dos armário, visando facilitar essa gestão dos armários após a saída dos estudantes ou funcionários.
 2. Objetivos do projeto
