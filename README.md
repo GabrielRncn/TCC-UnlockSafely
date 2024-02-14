@@ -39,11 +39,11 @@ O projeto tem como objetivo erradicar o uso de chaves para abertura dos armário
 
 ●	Janeiro/2024:
 
-Planejamento e Análise
-Formação das equipes;<br />
-Identificação de requisitos detalhados;<br />
-Início do desenvolvimento do escopo do projeto e documentação da ideia inicial;<br />
-●	Definição do backlog e prioridade das atividades;<br />
+-	Planejamento e Análise<br />
+-	Formação das equipes;<br />
+-	Identificação de requisitos detalhados;<br />
+-	Início do desenvolvimento do escopo do projeto e documentação da ideia inicial;<br />
+-	Definição do backlog e prioridade das atividades;<br />
 
 ●	Fevereiro/2024:
 
