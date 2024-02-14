@@ -68,21 +68,25 @@ O projeto tem como objetivo erradicar o uso de chaves para abertura dos armário
 -	Testes Finais e Lançamento;<br />
 
 <h2>5. Recursos</h2>
-	Pessoal:<br />
-●	Desenvolvedores de Software: Para a criação do sistemas para supervisores, funcionários e alunos.<br />
-●	Equipe de Treinamento: Para capacitar supervisores, funcionários e alunos no uso do novo sistema.<br />
-●	Gerente de Projeto: Para coordenar e supervisionar todas as atividades.<br />
-	Tecnologia:<br />
-●	Ambiente de Desenvolvimento Integrado (IDE): Ferramentas adequadas para o desenvolvimento do sistema e do painel de supervisão.<br />
-●	Sistemas de versionamento de código: git e github para manter o código versionado e sempre atualizado.<br />
-●	Servidores e Infraestrutura em Nuvem: Para hospedar o sistema, o painel de supervisão e os dados do sistema.<br />
-●	Ferramentas de Teste de Software: Para garantir a qualidade e a confiabilidade do sistema.<br />
+
+●	Pessoal:<br />
+
+-	Desenvolvedores de Software: Para a criação do sistemas para supervisores, funcionários e alunos.<br />
+-	Equipe de Treinamento: Para capacitar supervisores, funcionários e alunos no uso do novo sistema.<br />
+-	Gerente de Projeto: Para coordenar e supervisionar todas as atividades.<br />
+
+●	Tecnologia:<br />
+
+-	Ambiente de Desenvolvimento Integrado (IDE): Ferramentas adequadas para o desenvolvimento do sistema e do painel de supervisão.<br />
+-	Sistemas de versionamento de código: git e github para manter o código versionado e sempre atualizado.<br />
+-	Servidores e Infraestrutura em Nuvem: Para hospedar o sistema, o painel de supervisão e os dados do sistema.<br />
+-	Ferramentas de Teste de Software: Para garantir a qualidade e a confiabilidade do sistema.<br />
 
  <h2>7 Documentação</h2>
 
 
 
-Requisitos funcionais<br />
+●	Requisitos funcionais<br />
 	Como um funcionário, eu quero poder trancar o meu armário para guardar meus pertences.<br />
 ●	Critérios de Aceitação: Deve ser possível adicionar um usuário e uma senha no ambiente específico dos armários.<br />
 	
