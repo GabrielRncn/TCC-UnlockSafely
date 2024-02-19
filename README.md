@@ -99,6 +99,7 @@ O projeto tem como objetivo erradicar o uso de chaves para abertura dos armário
 -	Critérios de Aceitação: A equipe de treinamento deve fornecer sessões iniciais de treinamento que cubram todos os recursos e funcionalidades do sistema.<br />
 	
 <h2>8. Avaliação do Projeto</h2><br />
+
 ●	Taxa de Adoção do Sistema:<br />
 -	Objetivo: Alcançar uma taxa de adoção de 100% entre os usuários de armários da escola, sejam eles funcionários ou alunos que possuem os requisitos para uso.<br />
 -	Métrica: Número total de funcionários e alunos utilizando o sistema em comparação com o número total de funcionários e alunos que possuem armários.<br />
