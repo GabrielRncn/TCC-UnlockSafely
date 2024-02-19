@@ -87,41 +87,42 @@ O projeto tem como objetivo erradicar o uso de chaves para abertura dos armário
 
 
 ●	Requisitos funcionais<br />
-	Como um funcionário, eu quero poder trancar o meu armário para guardar meus pertences.<br />
-●	Critérios de Aceitação: Deve ser possível adicionar um usuário e uma senha no ambiente específico dos armários.<br />
+-	Como um funcionário, eu quero poder trancar o meu armário para guardar meus pertences.<br />
+-	Critérios de Aceitação: Deve ser possível adicionar um usuário e uma senha no ambiente específico dos armários.<br />
 	
 	
-	Como um supervisor, eu quero ter acesso a um painel de supervisão para visualizar o status de armários que estão ocupados ou não.<br />
-●	Critérios de Aceitação: O painel de supervisão deve exibir uma visão geral dos armários que estão ocupados ou não.<br />
+-	Como um supervisor, eu quero ter acesso a um painel de supervisão para visualizar o status de armários que estão ocupados ou não.<br />
+-	Critérios de Aceitação: O painel de supervisão deve exibir uma visão geral dos armários que estão ocupados ou não.<br />
 	
 
-	Como um funcionário, eu quero ter um treinamento inicial no uso do sistema, para garantir que eu possa utilizá-lo eficientemente.<br />
-●	Critérios de Aceitação: A equipe de treinamento deve fornecer sessões iniciais de treinamento que cubram todos os recursos e funcionalidades do sistema.<br />
+-	Como um funcionário, eu quero ter um treinamento inicial no uso do sistema, para garantir que eu possa utilizá-lo eficientemente.<br />
+-	Critérios de Aceitação: A equipe de treinamento deve fornecer sessões iniciais de treinamento que cubram todos os recursos e funcionalidades do sistema.<br />
 	
 <h2>8. Avaliação do Projeto</h2><br />
-	Taxa de Adoção do Sistema:<br />
-●	Objetivo: Alcançar uma taxa de adoção de 100% entre os usuários de armários da escola, sejam eles funcionários ou alunos que possuem os requisitos para uso.<br />
-●	Métrica: Número total de funcionários e alunos utilizando o sistema em comparação com o número total de funcionários e alunos que possuem armários.<br />
+●	Taxa de Adoção do Sistema:<br />
+-	Objetivo: Alcançar uma taxa de adoção de 100% entre os usuários de armários da escola, sejam eles funcionários ou alunos que possuem os requisitos para uso.<br />
+-	Métrica: Número total de funcionários e alunos utilizando o sistema em comparação com o número total de funcionários e alunos que possuem armários.<br />
 	
-	Eficiência Operacional:<br />
-●	Objetivo: Otimização do tempo, pois não terá mais que procurar chaves ou em caso de perca de alguma chave e garantir mais segurança aos pertences dos usuários de armários. <br />
-●	Métrica: Comparação dos usuários que cadastraram a digital.<br />
-	Taxa de Conclusão de Limpeza:<br />
-●	Objetivo: Alcançar uma taxa de instalação do sistema em 100% de pelo menos 95% dos ambientes designados no prazo estabelecido.<br />
-●	Métrica: Número de ambientes que possuem armários com sistema implementados em relação ao número total de ambientes designados implementação.<br />
+●	Eficiência Operacional:<br />
+-	Objetivo: Otimização do tempo, pois não terá mais que procurar chaves ou em caso de perca de alguma chave e garantir mais segurança aos pertences dos usuários de armários. <br />
+-	Métrica: Comparação dos usuários que cadastraram a digital.<br />
+
+●	Taxa de Conclusão de Limpeza:<br />
+-	Objetivo: Alcançar uma taxa de instalação do sistema em 100% de pelo menos 95% dos ambientes designados no prazo estabelecido.<br />
+-	Métrica: Número de ambientes que possuem armários com sistema implementados em relação ao número total de ambientes designados implementação.<br />
 	
-	Satisfação do Usuário:<br />
-●	Objetivo: Alcançar uma pontuação de satisfação do usuário de pelo menos 4,5 em 5, com base em pesquisas de satisfação.<br />
-●	Métrica: Resultados de pesquisas de satisfação realizadas com funcionários e supervisores.<br />
+●	Satisfação do Usuário:<br />
+-	Objetivo: Alcançar uma pontuação de satisfação do usuário de pelo menos 4,5 em 5, com base em pesquisas de satisfação.<br />
+-	Métrica: Resultados de pesquisas de satisfação realizadas com funcionários e supervisores.<br />
 	
-	Integridade dos Dados:<br />
-●	Objetivo: Alcançar uma precisão de pelo menos 98% na integridade dos dados registrados pelo sistema.<br />
-●	Métrica: Comparação entre os dados registrados no sistema e as verificações físicas dos ambientes.<br />
+●	Integridade dos Dados:<br />
+-	Objetivo: Alcançar uma precisão de pelo menos 98% na integridade dos dados registrados pelo sistema.<br />
+-	Métrica: Comparação entre os dados registrados no sistema e as verificações físicas dos ambientes.<br />
 	
-	Disponibilidade do Sistema:<br />
-●	Objetivo: Garantir uma disponibilidade do sistema de pelo menos 99,5% ao longo do tempo.<br />
-●	Métrica: Tempo total de operação sem interrupções em comparação com o tempo total planejado.<br />
+●	Disponibilidade do Sistema:<br />
+-	Objetivo: Garantir uma disponibilidade do sistema de pelo menos 99,5% ao longo do tempo.<br />
+-	Métrica: Tempo total de operação sem interrupções em comparação com o tempo total planejado.<br />
 	
-	Tempo de Implementação:<br />
-●	Objetivo: Cumprir o cronograma estabelecido, realizando a implementação e lançamento até a data prevista.<br />
-●	Métrica: Comparação entre a data de conclusão real e a data planejada.<br />
+●	Tempo de Implementação:<br />
+-	Objetivo: Cumprir o cronograma estabelecido, realizando a implementação e lançamento até a data prevista.<br />
+-	Métrica: Comparação entre a data de conclusão real e a data planejada.<br />
