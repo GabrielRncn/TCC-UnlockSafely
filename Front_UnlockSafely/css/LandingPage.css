@@ -1,0 +1,785 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Montserrat;
+    background-color: rgb(235, 235, 235);
+}
+
+main{
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    padding: 100px;
+    background: linear-gradient(#010c19, #3ebfc6);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.container1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 60px;
+}
+
+#titulo{
+    color: #3ebfc6;
+}
+
+#sobrenos{
+    color: rgb(208, 208, 208);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+    font-size: 14pt;
+    margin-top: 40px;
+}
+
+.botoes{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    text-decoration: none;
+}
+
+#btn_login{
+    padding: 12px;
+    border-radius: 19px;
+    font-size: 13pt;
+    margin-top: 20px;
+    width: 210px;
+    border: none;
+    background-color: #0b2547;
+    color: #3ebfc6;
+    font-family: Montserrat;
+    transition: ease-in-out 0.6s;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+#btn_login:hover{
+    transform: scale(103%);
+    cursor: pointer;
+    background-color: #000000;
+    color: #3ebfc6;
+}
+
+#btn_cadastro{
+    padding: 12px;
+    border-radius: 19px;
+    font-size: 13pt;
+    margin-top: 20px;
+    width: 210px;
+    border: none;
+    background-color: #0b2547;
+    color: #3ebfc6;
+    font-family: Montserrat;
+    transition: ease-in-out 0.6s;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+#btn_cadastro:hover{
+    transform: scale(103%);
+    cursor: pointer;
+    background-color: #000000;
+    color: #3ebfc6;
+}
+
+.container-quemsomos{
+    background-color: rgb(236, 236, 236);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 40px;
+}
+
+#quemsomos{
+    color: #0b2547;
+    margin-top: 20px;
+    font-size: 30pt;
+    margin-bottom: 25px;
+}
+
+.tabs {
+    display: flex;
+}
+  
+.tab {
+    padding: 10px 20px;
+    background-color: white;
+    color: #0b2547;
+    box-shadow: 0 0 10px -2px #3ebfc6;
+    cursor: pointer;
+    border-top-right-radius: 22px;
+    border-top-left-radius: 22px;
+    transition: 0.5s ease-in-out;
+}
+
+.tab.active{
+    background-color: #0b2547;
+    color: #3ebfc6;
+}
+  
+.tab:hover{
+    background-color: #0b2547;
+    color: #3ebfc6;
+}
+
+.container-tabs{
+    background-color: #0b2547;
+    border-radius: 15px;
+    color: white;
+}
+  
+.tab-content {
+    display: none;
+    width: 1200px;
+    height: 220px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+  
+.tab-content.active {
+    display: block;
+}
+
+.tab-content.active h2{
+    color: #0b2547;
+}
+
+.conteudo-tab{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.tab-content .conteudo-tab h2{
+    margin-bottom: 5px;
+    font-size: 22pt;
+    color: white;
+}
+
+.conteudo-tab p{
+    font-size: 13.5pt;
+}
+
+#imgdevops{
+    filter: invert(100);
+}
+
+#imgbancodedados{
+    margin-top: 10px;
+    margin-bottom: 8px;
+}
+
+.container2{
+    background-color: #3ebfc6;
+    padding: 40px;
+}
+
+.container2 h3{
+    font-size: 22pt;
+    color: white;
+}
+
+.container2 h4{
+    font-size: 15pt;
+    color: rgb(70, 70, 70);
+}
+
+.text-container2{
+    margin-top: 40px;
+}
+
+footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(235, 235, 235);
+    width: 100%;
+    height: 100%;
+}
+
+#titulo_footer{
+    margin-top: 14px;
+    margin-bottom: 7px;
+}
+
+.conteudo_footer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.conteudo_footer #footer_megh{
+    font-size: 12pt;
+}
+
+.conteudo_footer #footer_direitos{
+    font-size: 12pt;
+}
+
+.divisoria{
+    border: 1px solid #0b2547;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-bottom: 8px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media screen and (max-width: 1200px){
+    .tab-content {
+        width: 830px;
+        height: 200px;
+    }
+}
+
+@media screen and (max-width: 880px) {
+    body{
+        flex-wrap: wrap;
+    }
+    main{
+        height: 70vh;
+    }
+    #titulo{
+        flex-wrap: wrap;
+        font-size: 21pt;
+    }
+    #sobrenos{
+        font-size: 13pt;
+    }
+    .imagem img{
+        width: 220px;
+    }
+    #btn_login{
+        padding: 10px;
+        font-size: 12pt;
+        width: 170px;
+        margin-top: 0;
+    }
+    #btn_cadastro{
+        padding: 10px;
+        font-size: 12pt;
+        width: 170px;
+        margin-top: 0;
+    }
+    #quemsomos{
+        margin-top: 18px;
+        font-size: 24pt;
+        margin-bottom: 22px;
+    }
+    .tab {
+        padding: 7px 18px;
+        font-size: 10.5pt;
+    }
+    .tab-content {
+        width: 730px;
+        height: 200px;
+    }
+    .tab-content .conteudo-tab h2{
+        margin-bottom: 5px;
+        font-size: 18pt;
+    } 
+    .conteudo-tab p{
+        font-size: 11.5pt;
+    }
+    .container2 h3{
+        font-size: 19pt;
+    }
+    .container2 h4{
+        font-size: 13.5pt;
+    }
+    .text-container2{
+        margin-top: 25px;
+    }
+    .text-container2 h4{
+        margin-bottom: 10px;
+    } 
+    #titulo_footer{
+        margin-top: 10px;
+        margin-bottom: 7px;
+        font-size: 12pt;
+    }   
+    .divisoria{
+        margin-right: 30px;
+        margin-left: 30px;
+        margin-bottom: 5px;
+        height: 60px;
+    }
+    .conteudo_footer #footer_megh{
+        font-size: 11.5pt;
+    }
+    .conteudo_footer #footer_direitos{
+        font-size: 11.5pt;
+    }
+}
+
+@media screen and (max-width: 780px) {
+    body{
+        flex-wrap: wrap;
+    }
+    main{
+        height: 60vh;
+    }
+    #titulo{
+        flex-wrap: wrap;
+        font-size: 19pt;
+    }
+    #sobrenos{
+        font-size: 12pt;
+    }
+    .imagem img{
+        width: 190px;
+    }
+    #btn_login{
+        padding: 7px;
+        font-size: 10pt;
+        width: 140px;
+        margin-top: 0;
+    }
+    #btn_cadastro{
+        padding: 7px;
+        font-size: 10pt;
+        width: 140px;
+        margin-top: 0;
+    }
+    #quemsomos{
+        margin-top: 16px;
+        font-size: 21pt;
+        margin-bottom: 20px;
+    }
+    .tab {
+        padding: 5px 15px;
+        font-size: 10pt;
+    }
+    .tab-content {
+        width: 600px;
+        height: 180px;
+    }
+    .tab-content .conteudo-tab h2{
+        margin-bottom: 4px;
+        font-size: 15pt;
+    } 
+    .conteudo-tab p{
+        font-size: 10.7pt;
+    }
+    .conteudo-tab img{
+        width: 95px;
+        height: 85px;
+    }
+    .container2 h3{
+        font-size: 17pt;
+    }
+    .container2 h4{
+        font-size: 12.5pt;
+    }
+    .text-container2{
+        margin-top: 15px;
+    }
+    .text-container2 h4{
+        margin-bottom: 7px;
+    } 
+    #titulo_footer{
+        margin-top: 8px;
+        margin-bottom: 8px;
+        font-size: 10.8pt;
+    }   
+    .divisoria{
+        margin-right: 30px;
+        margin-left: 30px;
+        margin-bottom: 5px;
+        height: 50px;
+    }
+    .conteudo_footer #footer_megh{
+        font-size: 10pt;
+    }
+    .conteudo_footer #footer_direitos{
+        font-size: 10pt;
+    }
+}
+
+@media screen and (max-width: 658px) {
+    body{
+        flex-wrap: wrap;
+    }
+    main{
+        height: 60vh;
+    }
+    #titulo{
+        flex-wrap: wrap;
+        font-size: 17pt;
+    }
+    #sobrenos{
+        font-size: 12pt;
+    }
+    .imagem img{
+        width: 170px;
+    }
+    #btn_login{
+        padding: 6px;
+        font-size: 10pt;
+        width: 110px;
+        margin-top: 0;
+    }
+    #btn_cadastro{
+        padding: 6px;
+        font-size: 10pt;
+        width: 110px;
+        margin-top: 0;
+    }
+    #quemsomos{
+        margin-top: 16px;
+        font-size: 18.5pt;
+        margin-bottom: 20px;
+    }
+    .tab {
+        padding: 5px 13px;
+        font-size: 9pt;
+    }
+    .tab-content {
+        width: 500px;
+        height: 180px;
+    }
+    .tab-content .conteudo-tab h2{
+        margin-bottom: 4px;
+        font-size: 13.5pt;
+    } 
+    .conteudo-tab p{
+        font-size: 10pt;
+    }
+    .conteudo-tab img{
+        width: 88px;
+        height: 78px;
+    }
+    .container2 h3{
+        font-size: 15.5pt;
+    }
+    .container2 h4{
+        font-size: 11.5pt;
+        margin-top: 10px;
+    }
+    .text-container2{
+        margin-top: 15px;
+    }
+    .text-container2 h4{
+        margin-bottom: 7px;
+    } 
+    #titulo_footer{
+        margin-top: 8px;
+        margin-bottom: 8px;
+        font-size: 10.5pt;
+    }   
+    .divisoria{
+        margin-right: 25px;
+        margin-left: 25px;
+        margin-bottom: 5px;
+        height: 50px;
+    }
+    .conteudo_footer #footer_megh{
+        font-size: 9pt;
+    }
+    .conteudo_footer #footer_direitos{
+        font-size: 9pt;
+    }
+}
+
+@media screen and (max-width: 535px) {
+    body{
+        flex-wrap: wrap;
+    }
+    main{
+        height: 60vh;
+    }
+    #titulo{
+        flex-wrap: wrap;
+        font-size: 16pt;
+    }
+    #sobrenos{
+        font-size: 11pt;
+    }
+    .imagem img{
+        width: 140px;
+        margin-left: -40px;
+    }
+    #btn_login{
+        padding: 6px;
+        font-size: 9pt;
+        width: 100px;
+        margin-top: 0;
+    }
+    #btn_cadastro{
+        padding: 6px;
+        font-size: 9pt;
+        width: 100px;
+        margin-top: 0;
+    }
+    #quemsomos{
+        margin-top: 16px;
+        font-size: 16.5pt;
+        margin-bottom: 20px;
+    }
+    .tab {
+        padding: 5px 12px;
+        font-size: 8.5pt;
+    }
+    .tab-content {
+        width: 400px;
+        height: 150px;
+    }
+    .tab-content .conteudo-tab h2{
+        margin-bottom: 5px;
+        font-size: 13pt;
+    } 
+    .conteudo-tab p{
+        font-size: 9.5pt;
+    }
+    .conteudo-tab img{
+        width: 85px;
+        height: 75px;
+    }
+    .container2 h3{
+        font-size: 15pt;
+    }
+    .container2 h4{
+        font-size: 11pt;
+        margin-top: 10px;
+    }
+    .text-container2{
+        margin-top: 15px;
+    }
+    .text-container2 h4{
+        margin-bottom: 17px;
+    } 
+    #titulo_footer{
+        margin-top: 8px;
+        margin-bottom: 8px;
+        font-size: 10.5pt;
+    }   
+    .divisoria{
+        margin-right: 25px;
+        margin-left: 25px;
+        margin-bottom: 5px;
+        height: 50px;
+    }
+    .conteudo_footer #footer_megh{
+        font-size: 9pt;
+    }
+    .conteudo_footer #footer_direitos{
+        font-size: 9pt;
+    }
+}
+
+@media screen and (max-width: 440px){
+    body{
+        flex-wrap: wrap;
+    }
+    main{
+        height: 40vh;
+    }
+    #titulo{
+        flex-wrap: wrap;
+        font-size: 15pt;
+        margin-bottom: -20px;
+    }
+    #sobrenos{
+        /* font-size: 11pt; */
+        display: none;
+    }
+    .imagem img{
+        width: 110px;
+        margin-left: -60px;
+    }
+    #btn_login{
+        padding: 6px;
+        font-size: 8pt;
+        width: 90px;
+        margin-top: 0;
+    }
+    #btn_cadastro{
+        padding: 6px;
+        font-size: 8pt;
+        width: 90px;
+        margin-top: 0;
+    }
+    #quemsomos{
+        margin-top: 16px;
+        font-size: 16.5pt;
+        margin-bottom: 20px;
+    }
+    .tab {
+        padding: 5px 12px;
+        font-size: 7.5pt;
+    }
+    .tab-content {
+        width: 340px;
+        height: 150px;
+    }
+    .tab-content .conteudo-tab h2{
+        margin-bottom: 5px;
+        font-size: 11.5pt;
+    } 
+    .conteudo-tab p{
+        font-size: 9pt;
+    }
+    .conteudo-tab img{
+        width: 70px;
+        height: 60px;
+    }
+    .container2 h3{
+        font-size: 14pt;
+        margin-top: -20px;
+    }
+    .container2 h4{
+        font-size: 11pt;
+        margin-top: 15px;
+    }
+    .text-container2{
+        margin-top: 25px;
+        margin-bottom: -10px;
+    }
+    .text-container2 h4{
+        margin-bottom: 17px;
+    } 
+    #titulo_footer{
+        margin-top: 7px;
+        margin-bottom: 8px;
+        font-size: 9pt;
+    }   
+    .divisoria{
+        margin-bottom: 5px;
+        height: 40px;
+    }
+    .conteudo_footer #footer_megh{
+        font-size: 8pt;
+    }
+    .conteudo_footer #footer_direitos{
+        font-size: 8pt;
+    }
+}
+
+@media screen and (max-width: 370px){
+    body{
+        flex-wrap: wrap;
+    }
+    main{
+        height: 40vh;
+    }
+    #titulo{
+        flex-wrap: wrap;
+        font-size: 15pt;
+        margin-bottom: -20px;
+    }
+    #sobrenos{
+        /* font-size: 11pt; */
+        display: none;
+    }
+    .imagem img{
+        width: 90px;
+        margin-left: -80px;
+    }
+    #btn_login{
+        padding: 6px;
+        font-size: 8pt;
+        width: 90px;
+        margin-top: 0;
+    }
+    #btn_cadastro{
+        padding: 6px;
+        font-size: 8pt;
+        width: 90px;
+        margin-top: 0;
+    }
+    #quemsomos{
+        margin-top: 16px;
+        font-size: 14.5pt;
+        margin-bottom: 20px;
+    }
+    .tab {
+        padding: 4px 12px;
+        font-size: 6pt;
+    }
+    .tab-content {
+        width: 300px;
+        height: 130px;
+    }
+    .tab-content .conteudo-tab h2{
+        margin-bottom: 5px;
+        font-size: 10pt;
+        margin-top: -10px;
+    } 
+    .conteudo-tab p{
+        font-size: 8pt;
+    }
+    .conteudo-tab img{
+        width: 60px;
+        height: 50px;
+    }
+    .container2{
+        padding: -10px 10px;
+    }
+    .container2 h3{
+        font-size: 13pt;
+        margin-top: -30px;
+    }
+    .container2 h4{
+        font-size: 10pt;
+        margin-top: 18px;
+    }
+    .text-container2{
+        margin-top: 25px;
+        margin-bottom: -10px;
+    }
+    .text-container2 h4{
+        margin-bottom: 17px;
+    } 
+    #titulo_footer{
+        margin-top: 6px;
+        margin-bottom: 8px;
+        font-size: 8pt;
+    }   
+    .divisoria{
+        margin-bottom: 5px;
+        height: 37px;
+    }
+    .conteudo_footer #footer_megh{
+        font-size: 7pt;
+    }
+    .conteudo_footer #footer_direitos{
+        font-size: 7pt;
+    }
+}
